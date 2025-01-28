@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityagopaljena98&label=Profile%20views&color=0e75b6&style=flat" alt="nityagopaljena98" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, SQL**
+- 🌱 I’m currently learning **MERN Stack, SQL, MONGODB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
